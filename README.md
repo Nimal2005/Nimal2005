@@ -1,175 +1,85 @@
 <div align="center">
 
-# 👋 Hi, I'm Nimal V
+👋 Hi, I'm Nimal V
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Computer+Vision+Developer;Open+Source+Learner;Future+Software+Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00d4ff&height=260&section=header&text=🌌%20Welcome%20to%20My%20Universe&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Future+Software+Engineer"/>
+
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="700"/>
 
 </div>
 
----
-
-# 🚀 About Me
+🚀 About Me
 
 🎓 Artificial Intelligence & Data Science Student
 
-💻 Passionate about Artificial Intelligence, Machine Learning, Computer Vision and Software Development
-
 🐍 Python Developer
 
-🌱 Currently Learning
+🤖 Passionate about AI, ML & Computer Vision
 
-- Data Structures & Algorithms
-- Dynamic Programming
-- Backtracking
-- Cloud Computing
-- System Design
+🌱 Currently learning DSA, Dynamic Programming, Cloud Computing
 
-🎯 **Career Goal**
+🎯 Goal: Software Engineer & AI Engineer
 
-Become a Software Engineer and AI Engineer by building impactful real-world applications.
+🪐 Tech Universe
 
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,tensorflow,pytorch,opencv,sklearn,html,css,javascript,flask,firebase,git,github,vscode,linux"/>
+</p>
 
-# 💻 Tech Stack
+🌌 GitHub Galaxy
 
-<div align="center">
-
-### 👨‍💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql"/>
-
-### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn"/>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,flask"/>
-
-### ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nimal2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimal2005&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Nimal2005&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nimal2005&theme=tokyo-night"/>
+</p>
 
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Nimal2005&theme=tokyonight&row=1&column=7&no-frame=true"/>
+</p>
 
-</div>
+🚀 Featured Missions
 
----
+🦺 Sentinel AI
 
-# 🚀 Featured Projects
+AI-powered worker safety monitoring using Computer Vision.
 
-## 🦺 Sentinel AI – AI Powered Worker Safety System
+🏢 OD Portal
 
-- 👷 PPE Detection
-- 📹 Worker Monitoring
-- ⚠️ Hazard Detection
-- 🤖 Computer Vision
+Flask + Firebase based On-Duty Management System with role-based access.
 
----
+🗣 AI Lip Reading
 
-## 🏢 OD Portal
+Real-time lip movement to speech conversion.
 
-Online On-Duty Management Portal
+📧 Spam Detection
 
-- 🔐 Role Based Authentication
-- ☁️ Firebase Integration
-- 🌐 Flask Web Application
-- 📋 Admin Dashboard
+Machine Learning powered email spam classifier.
 
----
+📚 Current Learning
 
-## 🗣 AI Lip Reading Assistive Communication
+✅ Data Structures & Algorithms
 
-- 🎥 OpenCV
-- 🧠 Machine Learning
-- 🔊 Text to Speech
-- ⚡ Real-Time Communication
+✅ Backtracking
 
----
+✅ Dynamic Programming
 
-## 📧 Email Spam Detection
+✅ Cloud Computing
 
-- 📩 Machine Learning Based Spam Classifier
-- 🐍 Python + Flask
+✅ Machine Learning
 
----
+🌍 Connect With Me
 
-# 🌱 Currently Exploring
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Cloud Computing
-- Software Engineering
-- Open Source
-
----
-
-# 📚 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/Nimal2005">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -183,32 +93,26 @@ Online On-Duty Management Portal
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-</div>
+</p>
 
----
+👀 Visitors
 
-# 👀 Profile Visitors
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Nimal2005&style=for-the-badge&color=blue"/>
+</p>
 
-<div align="center">
+🐍 Contribution Snake
 
-<img src="https://komarev.com/ghpvc/?username=Nimal2005&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+After creating the profile, add a GitHub Action to generate:
 
-</div>
-
----
-
-<div align="center">
-
-## 💬 Favorite Quote
-
-### *"Code • Learn • Build • Repeat 🚀"*
-
-</div>
-
----
+<p align="center">
+<img src="https://raw.githubusercontent.com/Nimal2005/Nimal2005/output/github-contribution-grid-snake.svg">
+</p>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer"/>
+✨ "Code • Learn • Build • Repeat 🚀"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:2575fc,100:6a11cb&height=180&section=footer"/>
 
 </div>
