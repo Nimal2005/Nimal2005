@@ -90,18 +90,14 @@ astronaut:
 
 ---
 
-## 🌌 Activity Graph
+## 🌌 Deep Space Snapshot
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimalv&theme=react-dark&bg_color=000000&color=39FF14&line=00FF7F&point=39FF14&hide_border=true" width="95%">
-</div>
 
----
+![status](https://img.shields.io/badge/SIGNAL-STABLE-39FF14?style=for-the-badge&labelColor=000000)
 
-## 🪐 Deep Space Snapshot
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="450">
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="450">
 </div>
 
 ---
