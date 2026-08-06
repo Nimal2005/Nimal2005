@@ -103,7 +103,50 @@ astronaut:
 
 ---
 
-## 🌌 Deep Space Snapshot
+## 🌌 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimalv&theme=github-dark&bg_color=000000&color=39FF14&line=00FF7F&point=39FF14&area=true&area_color=00FF7F&hide_border=true" width="95%">
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nimalv/nimalv/output/github-contribution-grid-snake-dark.svg" width="95%">
+</div>
+
+> ⚙️ **One-time setup:** the snake needs a small GitHub Action to generate itself from your contribution graph. Create `.github/workflows/snake.yml` in your profile repo with:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 */6 * * *"
+>   workflow_dispatch:
+>   push:
+>     branches: [ main ]
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: ${{ github.repository_owner }}
+>           outputs: |
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>             dist/github-contribution-grid-snake.svg
+>       - uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+## 🪐 Deep Space Snapshot
 
 <div align="center">
 
