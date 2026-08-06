@@ -43,15 +43,28 @@ astronaut:
 <img src="https://user-images.githubusercontent.com/74038190/213910843-1d9333e4-1074-4526-b3f4-eb5514ff69a1.gif" width="60">
 </div>
 
-<div align="center">
+<br>
 
-| Mission | Description | Tech Stack |
-|:---:|:---|:---:|
-| 🦺 **Sentinel AI** | AI-powered worker safety monitoring system using Computer Vision to detect hazards and enforce safety compliance in real time. | `Python` `OpenCV` `Deep Learning` |
-| 🏢 **OD Portal** | A Flask + Firebase based On-Duty Management System featuring secure role-based access control for streamlined approvals. | `Flask` `Firebase` `Python` |
-| 🗣️ **AI Lip Reading** | A deep learning system that interprets speech visually from lip movements, bridging vision and language understanding. | `Deep Learning` `Computer Vision` `NLP` |
+### 🦺 &nbsp; Sentinel AI
+> AI-powered worker safety monitoring system using **Computer Vision** to detect hazards and enforce safety compliance in real time.
 
-</div>
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=39FF14) ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat-square&logo=opencv&logoColor=39FF14) ![DeepLearning](https://img.shields.io/badge/-Deep%20Learning-000000?style=flat-square&logo=tensorflow&logoColor=00FF7F)
+
+<br>
+
+### 🏢 &nbsp; OD Portal
+> A **Flask + Firebase** based On-Duty Management System featuring secure role-based access control for streamlined approvals.
+
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=39FF14) ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase&logoColor=00FF7F) ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=39FF14)
+
+<br>
+
+### 🗣️ &nbsp; AI Lip Reading
+> A deep learning system that interprets speech **visually from lip movements**, bridging vision and language understanding.
+
+![DeepLearning](https://img.shields.io/badge/-Deep%20Learning-000000?style=flat-square&logo=tensorflow&logoColor=00FF7F) ![CV](https://img.shields.io/badge/-Computer%20Vision-000000?style=flat-square&logo=opencv&logoColor=39FF14) ![NLP](https://img.shields.io/badge/-NLP-000000?style=flat-square&logo=googlecloud&logoColor=00FF7F)
+
+<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="500">
