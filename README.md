@@ -1,118 +1,103 @@
 <div align="center">
 
-👋 Hi, I'm Nimal V
+<!-- Animated Space Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Nimal%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Exploring%20the%20Universe%20of%20Code%20🚀&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00d4ff&height=260&section=header&text=🌌%20Welcome%20to%20My%20Universe&fontSize=42&fontColor=ffffff&animation=twinkling"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Future+Software+Engineer"/>
-
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="700"/>
+<!-- Animated Typing Intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=Mission+Control%3A+Software+Engineer;Charting+new+galaxies+in+AI+%26+Full-Stack+Dev;Building+Sentinel+AI+%F0%9F%9B%B0%EF%B8%8F;Currently+orbiting%3A+Computer+Vision+%26+ML" alt="Typing SVG" />
+</a>
 
 </div>
 
-🚀 About Me
-
-🎓 Artificial Intelligence & Data Science Student
-
-🐍 Python Developer
-
-🤖 Passionate about AI, ML & Computer Vision
-
-🌱 Currently learning DSA, Dynamic Programming, Cloud Computing
-
-🎯 Goal: Software Engineer & AI Engineer
-
-🪐 Tech Universe
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,tensorflow,pytorch,opencv,sklearn,html,css,javascript,flask,firebase,git,github,vscode,linux"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="100%">
 </p>
 
-🌌 GitHub Galaxy
+---
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nimal2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimal2005&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## 🛰️ Transmission Log — About Me
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nimal2005&theme=tokyonight&hide_border=true"/>
-</p>
+```yaml
+astronaut:
+  name: "Nimal V"
+  call_sign: "@nimalv"
+  role: "Software Engineer | AI & Full-Stack Explorer"
+  current_orbit: "Computer Vision · Flask · Firebase"
+  mission_status: "Actively deploying to production 🚀"
+  fun_fact: "Debugs code faster than light travels through fiber optics ✨"
+```
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nimal2005&theme=tokyo-night"/>
-</p>
+---
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nimal2005&theme=tokyonight&row=1&column=7&no-frame=true"/>
-</p>
-
-🚀 Featured Missions
-
-🦺 Sentinel AI
-
-AI-powered worker safety monitoring using Computer Vision.
-
-🏢 OD Portal
-
-Flask + Firebase based On-Duty Management System with role-based access.
-
-🗣 AI Lip Reading
-
-Real-time lip movement to speech conversion.
-
-📧 Spam Detection
-
-Machine Learning powered email spam classifier.
-
-📚 Current Learning
-
-✅ Data Structures & Algorithms
-
-✅ Backtracking
-
-✅ Dynamic Programming
-
-✅ Cloud Computing
-
-✅ Machine Learning
-
-🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Nimal2005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nimal-v-b35494292">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:nimalsasi2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
-👀 Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nimal2005&style=for-the-badge&color=blue"/>
-</p>
-
-🐍 Contribution Snake
-
-After creating the profile, add a GitHub Action to generate:
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Nimal2005/Nimal2005/output/github-contribution-grid-snake.svg">
-</p>
+## 🚀 Featured Missions
 
 <div align="center">
 
-✨ "Code • Learn • Build • Repeat 🚀"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:2575fc,100:6a11cb&height=180&section=footer"/>
+| Mission | Description | Tech Stack |
+|:---:|:---|:---:|
+| 🦺 **Sentinel AI** | AI-powered worker safety monitoring system using Computer Vision to detect hazards and enforce safety compliance in real time. | `Python` `OpenCV` `Deep Learning` |
+| 🏢 **OD Portal** | A Flask + Firebase based On-Duty Management System featuring secure role-based access control for streamlined approvals. | `Flask` `Firebase` `Python` |
+| 🗣️ **AI Lip Reading** | A deep learning system that interprets speech visually from lip movements, bridging vision and language understanding. | `Deep Learning` `Computer Vision` `NLP` |
 
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="500">
+</p>
+
+---
+
+## 🧭 Navigation Instruments — Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-0f0c29?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0f0c29?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![OpenCV](https://img.shields.io/badge/OpenCV-0f0c29?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=F05032)
+![HTML5](https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+</div>
+
+---
+
+## 📡 Mission Control — GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nimalv&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nimalv&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimalv&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
+
+</div>
+
+---
+
+## 🌌 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimalv&theme=react-dark&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true" width="95%">
+</div>
+
+---
+
+## 📞 Ground Control — Get In Touch
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nimal-v-b35494292)
+[![Gmail](https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nimalsasi2005@gmail.com)
+
+</div>
+
+<p align="center">
+  <em>"Not all those who wander through code are lost — some are just exploring new orbits."</em> 🪐
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
