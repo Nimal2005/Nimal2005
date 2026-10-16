@@ -16,12 +16,25 @@
 
 ## 🛰️ Transmission Log — About Me
 
-- **Name:** Nimal V
-- **Call Sign:** `@Nimal2005`
-- **Role:** Software Engineer | AI & Full-Stack Developer
-- **Current Orbit:** Computer Vision · Flask · Firebase
-- **Mission Status:** Building and deploying projects 🚀
-- **Fun Fact:** Debugging is my space exploration ✨
+
+---
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I%27m+Nimal+V+%F0%9F%91%8B;Software+Engineer+in+Progress+%F0%9F%9A%80;AI+%26+Full-Stack+Developer+%F0%9F%A4%96;Exploring+Computer+Vision+%26+Cloud+%F0%9F%8C%8C" alt="Animated introduction"/>
+
+</div>
+
+- 👨‍🚀 **Name:** Nimal V
+- 🪐 **Call Sign:** `@Nimal2005`
+- 💻 **Role:** Software Engineer | AI & Full-Stack Developer
+- 🔭 **Current Orbit:** Computer Vision · Flask · Firebase
+- 🚀 **Mission Status:** Building and deploying projects
+- ✨ **Fun Fact:** Debugging is my space exploration
+
+---
+
 
 ---
 
