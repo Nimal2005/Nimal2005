@@ -147,75 +147,135 @@ An assistive application that interprets lip movements using Computer Vision and
 </td>
 <td align="center" width="50%">
 
-### 🌐 Development & Cloud
 
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+---
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:071b13,50:003b2f,75:071b13,100:000000&height=180&section=header&animation=fadeIn" width="100%" alt="Space station"/>
+
+# 🛸 NIMAL V — SPACE COMMAND
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=1800&pause=500&color=39FF14&center=true&vCenter=true&width=700&height=60&lines=%3E+BOOTING+SPACE+COMMAND...;%3E+LOADING+AI+MODULES...;%3E+CONNECTING+TO+THE+CLOUD...;%3E+SYSTEM+ONLINE+%E2%9C%85;%3E+WELCOME%2C+VISITOR+%F0%9F%9A%80" alt="Animated system terminal"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216655848-cf4b7d4c-1a25-4ec3-bf3b-20e7a8e53c9c.gif" width="180" alt="Animated space"/>
+
+</div>
+
+---
+
+## 📡 LIVE SYSTEM MONITOR
+
+<div align="center">
+
+![System](https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=39FF14&labelColor=000000)
+![AI](https://img.shields.io/badge/AI-MODULE%20ACTIVE-00C7B7?style=for-the-badge&logo=probot&logoColor=00C7B7&labelColor=000000)
+![Deploy](https://img.shields.io/badge/DEPLOYMENT-IN%20PROGRESS-7B61FF?style=for-the-badge&logo=rocket&logoColor=FFFFFF&labelColor=000000)
+
+</div>
+
+```text
+╔════════════════════════════════════════════╗
+║           NIMAL V // SPACE TERMINAL        ║
+╠════════════════════════════════════════════╣
+║  ID       : Nimal2005                      ║
+║  DIVISION : AI & FULL-STACK ENGINEERING    ║
+║  CORE     : PYTHON / COMPUTER VISION       ║
+║  NETWORK  : FLASK / FIREBASE / CLOUD       ║
+║  OBJECTIVE: BUILD SOMETHING EXTRAORDINARY  ║
+╚════════════════════════════════════════════╝
+```
+
+---
+
+## 🌌 GALAXY MAP — CURRENT OPERATIONS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🦺 SENTINEL AI
+
+<img src="https://img.shields.io/badge/HAZARD%20DETECTION-ACTIVE-39FF14?style=for-the-badge&labelColor=000000" alt="Hazard detection"/>
+
+Computer Vision-powered workplace safety monitoring.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=FFFFFF)
+
+</td>
+<td align="center" width="50%">
+
+### 🏢 OD PORTAL
+
+<img src="https://img.shields.io/badge/WORKFLOW-ENGINE-00C7B7?style=for-the-badge&labelColor=000000" alt="Workflow engine"/>
+
+On-Duty Management System with role-based access and approvals.
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+### 🗣️ AI LIP-READING SYSTEM
+
+Visual speech recognition for assistive communication.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=FFFFFF)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=FFFFFF)
 
 </td>
 </tr>
 </table>
 
+</div>
 
 ---
 
-## 🌌 Mission Timeline — My Developer Journey
+## 🧬 TECHNOLOGY REACTOR
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=45&lines=INITIALIZING+DEVELOPER+PROFILE...;SCANNING+NEW+TECHNOLOGIES...;BUILDING+INTELLIGENT+SYSTEMS...;MISSION+STATUS%3A+IN+PROGRESS+%F0%9F%9A%80" alt="Mission status animation"/>
+<img src="https://skillicons.dev/icons?i=python,c,html,flask,firebase,opencv,tensorflow,pytorch,mysql,git,github,vscode&theme=dark&perline=6" alt="Technology icons"/>
 
-</div>
+<br/><br/>
 
-### 🪐 01 — Foundation
-
-> **Mission:** Build strong programming fundamentals.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=00599C)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF)
-
-### 🤖 02 — Intelligence Lab
-
-> **Mission:** Develop AI-powered solutions for real-world problems.
-
-- 🦺 Sentinel AI — Worker Safety System
-- 🗣️ AI Lip-Reading Assistive Communication
-- 👁️ Computer Vision & Deep Learning
-
-### 🌐 03 — Deployment Bay
-
-> **Mission:** Build, connect, and deploy applications.
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=FFFFFF)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=FFFFFF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=FFFFFF)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=000000)
-
-### 🚀 04 — Next Frontier
-
-> **Mission:** Keep learning, improve existing projects, and engineer smarter solutions.
-
-<div align="center">
-
-[![Explore Repositories](https://img.shields.io/badge/EXPLORE_MY_UNIVERSE-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Nimal2005?tab=repositories)
-
-**TRANSMISSION STATUS: CONTINUOUSLY EVOLVING ✨**
+<img src="https://img.shields.io/badge/TWILIO-F22F46?style=for-the-badge&logo=twilio&logoColor=FFFFFF" alt="Twilio"/>
+<img src="https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify&logoColor=000000" alt="Netlify"/>
 
 </div>
 
 ---
 
+## 🌀 DEEP SPACE SIGNAL
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2200&pause=700&color=00FF7F&center=true&vCenter=true&width=650&height=55&lines=SCANNING+FOR+NEW+IDEAS...;COMPILING+THE+NEXT+MISSION...;LEARNING+%E2%86%92+BUILDING+%E2%86%92+DEPLOYING;THE+MISSION+NEVER+ENDS+%F0%9F%9A%80" alt="Animated deep space signal"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b2f,100:000000&height=130&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
+
+</div>
 
 ---
 
+## 🛰️ ESTABLISH CONTACT
 
----
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Nimal2005)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/nimal-v-b35494292)
+
+</div>
+
 
 ## 🌌 GitHub Activity
 
