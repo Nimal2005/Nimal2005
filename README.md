@@ -159,21 +159,58 @@ An assistive application that interprets lip movements using Computer Vision and
 </tr>
 </table>
 
-### 🚀 Explore My Universe
 
-<a href="https://github.com/Nimal2005?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=39FF14" alt="Explore projects"/>
-</a>
+---
 
-<a href="https://github.com/Nimal2005?tab=stars">
-<img src="https://img.shields.io/badge/⭐_STARRED_REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=FFD700" alt="Starred repositories"/>
-</a>
+## 🌌 Mission Timeline — My Developer Journey
 
-<a href="https://github.com/Nimal2005?tab=overview">
-<img src="https://img.shields.io/badge/🪐_VIEW_PROFILE_ACTIVITY-000000?style=for-the-badge&logo=github&logoColor=00FF7F" alt="Profile activity"/>
-</a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=45&lines=INITIALIZING+DEVELOPER+PROFILE...;SCANNING+NEW+TECHNOLOGIES...;BUILDING+INTELLIGENT+SYSTEMS...;MISSION+STATUS%3A+IN+PROGRESS+%F0%9F%9A%80" alt="Mission status animation"/>
 
 </div>
+
+### 🪐 01 — Foundation
+
+> **Mission:** Build strong programming fundamentals.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF)
+
+### 🤖 02 — Intelligence Lab
+
+> **Mission:** Develop AI-powered solutions for real-world problems.
+
+- 🦺 Sentinel AI — Worker Safety System
+- 🗣️ AI Lip-Reading Assistive Communication
+- 👁️ Computer Vision & Deep Learning
+
+### 🌐 03 — Deployment Bay
+
+> **Mission:** Build, connect, and deploy applications.
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=FFFFFF)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=FFFFFF)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=000000)
+
+### 🚀 04 — Next Frontier
+
+> **Mission:** Keep learning, improve existing projects, and engineer smarter solutions.
+
+<div align="center">
+
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE_MY_UNIVERSE-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Nimal2005?tab=repositories)
+
+**TRANSMISSION STATUS: CONTINUOUSLY EVOLVING ✨**
+
+</div>
+
+---
+
 
 ---
 
