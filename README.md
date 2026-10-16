@@ -238,20 +238,6 @@ Visual speech recognition for assistive communication.
 
 ---
 
-## 🧬 TECHNOLOGY REACTOR
-
-
----
-
-## 🧬 TECHNOLOGY REACTOR
-
-<div align="center">
-
-### 💻 Programming & Query Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,html&theme=dark" alt="Python, C and HTML"/>
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 
 ### 🤖 AI & Computer Vision
 
