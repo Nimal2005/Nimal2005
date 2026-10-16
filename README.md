@@ -38,7 +38,15 @@
 
 ---
 
+## 🌀 DEEP SPACE SIGNAL
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2200&pause=700&color=00FF7F&center=true&vCenter=true&width=650&height=55&lines=SCANNING+FOR+NEW+IDEAS...;COMPILING+THE+NEXT+MISSION...;LEARNING+%E2%86%92+BUILDING+%E2%86%92+DEPLOYING;THE+MISSION+NEVER+ENDS+%F0%9F%9A%80" alt="Animated deep space signal"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b2f,100:000000&height=130&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
+
+</div>
 ---
 
 ## 🚀 Featured Missions
@@ -239,41 +247,14 @@ Visual speech recognition for assistive communication.
 ---
 
 
-### 🤖 AI & Computer Vision
 
-<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV"/>
-
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=FFFFFF)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF)
-
-### 🌐 Backend & Cloud Services
-
-<img src="https://skillicons.dev/icons?i=flask,firebase&theme=dark" alt="Flask and Firebase"/>
-
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=FFFFFF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=000000)
-
-### 🛠️ Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" alt="Git, GitHub, VS Code and Jupyter"/>
-
-</div>
 
 ---
 
 
 ---
 
-## 🌀 DEEP SPACE SIGNAL
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2200&pause=700&color=00FF7F&center=true&vCenter=true&width=650&height=55&lines=SCANNING+FOR+NEW+IDEAS...;COMPILING+THE+NEXT+MISSION...;LEARNING+%E2%86%92+BUILDING+%E2%86%92+DEPLOYING;THE+MISSION+NEVER+ENDS+%F0%9F%9A%80" alt="Animated deep space signal"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b2f,100:000000&height=130&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
-
-</div>
 
 ---
 
