@@ -12,17 +12,19 @@
 
 ---
 
+
+
 ## 🛰️ Transmission Log — About Me
 
-```yaml
-astronaut:
-  name: "Nimal V"
-  call_sign: "@Nimal2005"
-  role: "Software Engineer | AI & Full-Stack Developer"
-  current_orbit: "Computer Vision · Flask · Firebase"
-  mission_status: "Building and deploying projects 🚀"
-  fun_fact: "Debugging is my space exploration ✨"
-```
+- **Name:** Nimal V
+- **Call Sign:** `@Nimal2005`
+- **Role:** Software Engineer | AI & Full-Stack Developer
+- **Current Orbit:** Computer Vision · Flask · Firebase
+- **Mission Status:** Building and deploying projects 🚀
+- **Fun Fact:** Debugging is my space exploration ✨
+
+---
+
 
 ---
 
@@ -124,12 +126,7 @@ An assistive application that interprets lip movements using Computer Vision and
 
 ## 🪐 Deep Space Snapshot
 
-<div align="center">
 
-![Signal](https://img.shields.io/badge/SIGNAL-STABLE-39FF14?style=for-the-badge&labelColor=000000)
-![Focus](https://img.shields.io/badge/FOCUS-AI%20%26%20DEVELOPMENT-00FF7F?style=for-the-badge&labelColor=000000)
-
-</div>
 
 ---
 
