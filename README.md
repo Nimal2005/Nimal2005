@@ -240,17 +240,42 @@ Visual speech recognition for assistive communication.
 
 ## 🧬 TECHNOLOGY REACTOR
 
+
+---
+
+## 🧬 TECHNOLOGY REACTOR
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,html,flask,firebase,opencv,tensorflow,pytorch,mysql,git,github,vscode&theme=dark&perline=6" alt="Technology icons"/>
+### 💻 Programming & Query Languages
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,c,html&theme=dark" alt="Python, C and HTML"/>
 
-<img src="https://img.shields.io/badge/TWILIO-F22F46?style=for-the-badge&logo=twilio&logoColor=FFFFFF" alt="Twilio"/>
-<img src="https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify&logoColor=000000" alt="Netlify"/>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+
+### 🤖 AI & Computer Vision
+
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV"/>
+
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=FFFFFF)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF)
+
+### 🌐 Backend & Cloud Services
+
+<img src="https://skillicons.dev/icons?i=flask,firebase&theme=dark" alt="Flask and Firebase"/>
+
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=FFFFFF)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=000000)
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" alt="Git, GitHub, VS Code and Jupyter"/>
 
 </div>
+
+---
+
 
 ---
 
