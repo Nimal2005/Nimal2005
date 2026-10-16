@@ -119,15 +119,64 @@ An assistive application that interprets lip movements using Computer Vision and
 
 ---
 
-## 📡 Mission Control — GitHub Stats
+
+---
+
+## 🛰️ Mission Control — Developer Dashboard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nimal2005&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=00FF7F&text_color=c9d1c9" width="450" alt="GitHub statistics"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-39FF14?style=for-the-badge&labelColor=000000" alt="Active status"/>
+<img src="https://img.shields.io/badge/MISSION-AI%20DEVELOPMENT-00C7B7?style=for-the-badge&labelColor=000000" alt="AI development"/>
+<img src="https://img.shields.io/badge/ORBIT-FULL%20STACK-7B61FF?style=for-the-badge&labelColor=000000" alt="Full stack"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimal2005&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1c9" width="350" alt="Most used languages"/>
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 AI & Computer Vision
+
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 Development & Cloud
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+
+</td>
+</tr>
+</table>
+
+### 🚀 Explore My Universe
+
+<a href="https://github.com/Nimal2005?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=39FF14" alt="Explore projects"/>
+</a>
+
+<a href="https://github.com/Nimal2005?tab=stars">
+<img src="https://img.shields.io/badge/⭐_STARRED_REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=FFD700" alt="Starred repositories"/>
+</a>
+
+<a href="https://github.com/Nimal2005?tab=overview">
+<img src="https://img.shields.io/badge/🪐_VIEW_PROFILE_ACTIVITY-000000?style=for-the-badge&logo=github&logoColor=00FF7F" alt="Profile activity"/>
+</a>
 
 </div>
+
+---
+
 
 ---
 
