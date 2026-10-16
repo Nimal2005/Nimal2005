@@ -183,15 +183,15 @@ An assistive application that interprets lip movements using Computer Vision and
 </div>
 
 ```text
-╔════════════════════════════════════════════╗
-║           NIMAL V // SPACE TERMINAL        ║
-╠════════════════════════════════════════════╣
-║  ID       : Nimal2005                      ║
-║  DIVISION : AI & FULL-STACK ENGINEERING    ║
-║  CORE     : PYTHON / COMPUTER VISION       ║
-║  NETWORK  : FLASK / FIREBASE / CLOUD       ║
-║  OBJECTIVE: BUILD SOMETHING EXTRAORDINARY  ║
-╚════════════════════════════════════════════╝
+         ╔════════════════════════════════════════════╗
+         ║           NIMAL V // SPACE TERMINAL        ║
+         ╠════════════════════════════════════════════╣
+         ║  ID       : Nimal2005                      ║
+         ║  DIVISION : AI & FULL-STACK ENGINEERING    ║
+         ║  CORE     : PYTHON / COMPUTER VISION       ║
+         ║  NETWORK  : FLASK / FIREBASE / CLOUD       ║
+         ║  OBJECTIVE: BUILD SOMETHING EXTRAORDINARY  ║
+         ╚════════════════════════════════════════════╝
 ```
 
 ---
@@ -235,7 +235,7 @@ On-Duty Management System with role-based access and approvals.
 Visual speech recognition for assistive communication.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=FFFFFF)
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=FFFFFF)
 
 </td>
@@ -269,19 +269,9 @@ Visual speech recognition for assistive communication.
 </div>
 
 
-## 🌌 GitHub Activity
 
-<div align="center">
 
-[![View Contributions](https://img.shields.io/badge/View%20Contribution%20Graph-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/Nimal2005?tab=overview)
 
-[![Repositories](https://img.shields.io/badge/Explore%20Repositories-00C7B7?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/Nimal2005?tab=repositories)
-
-</div>
-
----
-
-## 🪐 Deep Space Snapshot
 
 
 
