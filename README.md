@@ -1,74 +1,63 @@
+
 <div align="center">
 
-<!-- Animated Space Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0f0a,100:000000&height=250&section=header&text=Nimal%20V&fontSize=60&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Exploring%20the%20Universe%20of%20Code%20🚀&descAlignY=55&descSize=20&descColor=00FF7F" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0f0a,100:000000&height=220&section=header&text=Nimal%20V&fontSize=60&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Exploring%20the%20Universe%20of%20Code%20%F0%9F%9A%80&descAlignY=58&descSize=17&descColor=00FF7F" width="100%" alt="Nimal V space banner"/>
 
-<!-- Animated Typing Intro -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&height=60&background=000000&lines=Mission+Control%3A+Software+Engineer;Charting+new+galaxies+in+AI+%26+Full-Stack+Dev;Building+Sentinel+AI+%F0%9F%9B%B0%EF%B8%8F;Currently+orbiting%3A+Computer+Vision+%26+ML" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&height=55&lines=Software+Engineer+in+Progress;AI+%26+Full-Stack+Developer;Building+Sentinel+AI;Exploring+Computer+Vision+%26+ML" alt="Animated introduction"/>
 
-<!-- Animated Rocket Launch -->
-<img src="https://user-images.githubusercontent.com/74038190/213910843-1d9333e4-1074-4526-b3f4-eb5514ff69a1.gif" width="120">
+[![GitHub](https://img.shields.io/badge/GitHub-Nimal2005-181717?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/Nimal2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/nimal-v-b35494292)
 
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="100%">
-</p>
 
 ---
 
 ## 🛰️ Transmission Log — About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
-
 ```yaml
 astronaut:
   name: "Nimal V"
-  call_sign: "@nimalv"
-  role: "Software Engineer | AI & Full-Stack Explorer"
+  call_sign: "@Nimal2005"
+  role: "Software Engineer | AI & Full-Stack Developer"
   current_orbit: "Computer Vision · Flask · Firebase"
-  mission_status: "Actively deploying to production 🚀"
-  fun_fact: "Debugs code faster than light travels through fiber optics ✨"
+  mission_status: "Building and deploying projects 🚀"
+  fun_fact: "Debugging is my space exploration ✨"
 ```
-
-<br clear="right"/>
 
 ---
 
 ## 🚀 Featured Missions
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910843-1d9333e4-1074-4526-b3f4-eb5514ff69a1.gif" width="60">
-</div>
+### 🦺 Sentinel AI — Worker Safety System
 
-<br>
+AI-powered worker safety monitoring system using Computer Vision to detect workplace hazards and support real-time safety compliance.
 
-### 🦺 &nbsp; Sentinel AI
-> AI-powered worker safety monitoring system using **Computer Vision** to detect hazards and enforce safety compliance in real time.
+**Technologies**
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=39FF14) ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat-square&logo=opencv&logoColor=39FF14) ![DeepLearning](https://img.shields.io/badge/-Deep%20Learning-000000?style=flat-square&logo=tensorflow&logoColor=00FF7F)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=FFFFFF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=FFFFFF)
 
-<br>
+### 🏢 OD Portal — On-Duty Management System
 
-### 🏢 &nbsp; OD Portal
-> A **Flask + Firebase** based On-Duty Management System featuring secure role-based access control for streamlined approvals.
+A Flask and Firebase-based web application with secure role-based access control to streamline on-duty requests and approval workflows.
 
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=39FF14) ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase&logoColor=00FF7F) ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=39FF14)
+**Technologies**
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
 
-### 🗣️ &nbsp; AI Lip Reading
-> A deep learning system that interprets speech **visually from lip movements**, bridging vision and language understanding.
+### 🗣️ AI Lip-Reading Assistive Communication System
 
-![DeepLearning](https://img.shields.io/badge/-Deep%20Learning-000000?style=flat-square&logo=tensorflow&logoColor=00FF7F) ![CV](https://img.shields.io/badge/-Computer%20Vision-000000?style=flat-square&logo=opencv&logoColor=39FF14) ![NLP](https://img.shields.io/badge/-NLP-000000?style=flat-square&logo=googlecloud&logoColor=00FF7F)
+A computer vision-based assistive application that recognizes visual speech from lip movements and converts recognized output into speech.
 
-<br>
+**Technologies**
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="500">
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=FFFFFF)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=FFFFFF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=FFFFFF)
 
 ---
 
@@ -76,15 +65,38 @@ astronaut:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=39FF14)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FF7F)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=39FF14)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF7F)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF7F)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=39FF14)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF7F)
+### 💻 Programming Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=00599C" alt="C"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3"/>
+
+### 🤖 AI & Machine Learning
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=FFFFFF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=FFFFFF" alt="MediaPipe"/>
+
+### 🌐 Web Development & Backend
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=FFFFFF" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" alt="Visual Studio Code"/>
 
 </div>
 
@@ -94,10 +106,11 @@ astronaut:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nimalv&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=00FF7F&text_color=c9d1c9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nimalv&theme=dark&hide_border=true&background=000000&ring=39FF14&fire=00FF7F&currStreakLabel=39FF14" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nimal2005&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=00FF7F&text_color=c9d1c9&rank_icon=github" width="48%" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimalv&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1c9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimal2005&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1c9" width="48%" alt="Most used languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Nimal2005&theme=dark&hide_border=true&background=000000&ring=39FF14&fire=00FF7F&currStreakLabel=39FF14" width="70%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -106,7 +119,9 @@ astronaut:
 ## 🌌 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimalv&theme=github-dark&bg_color=000000&color=39FF14&line=00FF7F&point=39FF14&area=true&area_color=00FF7F&hide_border=true" width="95%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nimal2005&bg_color=000000&color=39FF14&line=00FF7F&point=39FF14&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+
 </div>
 
 ---
@@ -114,35 +129,10 @@ astronaut:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nimalv/nimalv/output/github-contribution-grid-snake-dark.svg" width="95%">
-</div>
 
-> ⚙️ **One-time setup:** the snake needs a small GitHub Action to generate itself from your contribution graph. Create `.github/workflows/snake.yml` in your profile repo with:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 */6 * * *"
->   workflow_dispatch:
->   push:
->     branches: [ main ]
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->             dist/github-contribution-grid-snake.svg
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+<img src="https://raw.githubusercontent.com/Nimal2005/Nimal2005/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+
+</div>
 
 ---
 
@@ -150,9 +140,8 @@ astronaut:
 
 <div align="center">
 
-![status](https://img.shields.io/badge/SIGNAL-STABLE-39FF14?style=for-the-badge&labelColor=000000)
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="450">
+![Signal](https://img.shields.io/badge/SIGNAL-STABLE-39FF14?style=for-the-badge&labelColor=000000)
+![Focus](https://img.shields.io/badge/FOCUS-AI%20%26%20DEVELOPMENT-00FF7F?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -162,13 +151,16 @@ astronaut:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/nimal-v-b35494292)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF7F)](mailto:nimalsasi2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Nimal2005)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/nimal-v-b35494292)
 
 </div>
 
-<p align="center">
-  <em>"Not all those who wander through code are lost — some are just exploring new orbits."</em> 🪐
-</p>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0f0a,100:000000&height=150&section=footer" width="100%"/>
+*"Every line of code is another step into the unknown."* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0f0a,100:000000&height=100&section=footer" width="100%" alt="Space-themed footer"/>
+
+</div>
