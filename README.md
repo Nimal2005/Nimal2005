@@ -1,12 +1,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0f0a,100:000000&height=220&section=header&text=Nimal%20V&fontSize=60&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Exploring%20the%20Universe%20of%20Code%20%F0%9F%9A%80&descAlignY=58&descSize=17&descColor=00FF7F" width="100%" alt="Nimal V space banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0f0a,100:000000&height=200&section=header&text=Nimal%20V&fontSize=58&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Exploring%20the%20Universe%20of%20Code&descAlignY=57&descSize=18&descColor=00FF7F" width="100%" alt="Nimal V banner"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&height=55&lines=Software+Engineer+in+Progress;AI+%26+Full-Stack+Developer;Building+Sentinel+AI;Exploring+Computer+Vision+%26+ML" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&height=55&lines=Software+Engineer+in+Progress;AI+%26+Full-Stack+Developer;Building+Sentinel+AI;Exploring+Computer+Vision+%26+ML" alt="Introduction"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nimal2005-181717?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/Nimal2005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/nimal-v-b35494292)
+[![GitHub](https://img.shields.io/badge/GitHub-Nimal2005-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nimal2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nimal-v-b35494292)
 
 </div>
 
@@ -36,11 +36,11 @@ AI-powered worker safety monitoring system using Computer Vision to detect workp
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=FFFFFF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=FFFFFF)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=FFFFFF)
 
 ### 🏢 OD Portal — On-Duty Management System
 
-A Flask and Firebase-based web application with secure role-based access control to streamline on-duty requests and approval workflows.
+A Flask and Firebase-based on-duty management system with role-based access control and streamlined approval workflows.
 
 **Technologies**
 
@@ -50,14 +50,13 @@ A Flask and Firebase-based web application with secure role-based access control
 
 ### 🗣️ AI Lip-Reading Assistive Communication System
 
-A computer vision-based assistive application that recognizes visual speech from lip movements and converts recognized output into speech.
+An assistive application that interprets lip movements using Computer Vision and converts recognized text into speech.
 
 **Technologies**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=FFFFFF)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=FFFFFF)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=FFFFFF)
 
 ---
 
@@ -69,34 +68,31 @@ A computer vision-based assistive application that recognizes visual speech from
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=00599C" alt="C"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3"/>
 
-### 🤖 AI & Machine Learning
+### 🤖 AI & Computer Vision
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=FFFFFF" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=FFFFFF" alt="MediaPipe"/>
 
-### 🌐 Web Development & Backend
+### 🌐 Backend & Cloud Platforms
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=FFFFFF" alt="Twilio"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=000000" alt="Netlify"/>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Development Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=FFFFFF" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" alt="Visual Studio Code"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" alt="VS Code"/>
 
 </div>
 
@@ -106,31 +102,21 @@ A computer vision-based assistive application that recognizes visual speech from
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nimal2005&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=00FF7F&text_color=c9d1c9&rank_icon=github" width="48%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nimal2005&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=00FF7F&text_color=c9d1c9" width="450" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimal2005&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1c9" width="48%" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Nimal2005&theme=dark&hide_border=true&background=000000&ring=39FF14&fire=00FF7F&currStreakLabel=39FF14" width="70%" alt="GitHub contribution streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimal2005&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1c9" width="350" alt="Most used languages"/>
 
 </div>
 
 ---
 
-## 🌌 Activity Graph
+## 🌌 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nimal2005&bg_color=000000&color=39FF14&line=00FF7F&point=39FF14&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+[![View Contributions](https://img.shields.io/badge/View%20Contribution%20Graph-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/Nimal2005?tab=overview)
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Nimal2005/Nimal2005/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+[![Repositories](https://img.shields.io/badge/Explore%20Repositories-00C7B7?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/Nimal2005?tab=repositories)
 
 </div>
 
@@ -155,12 +141,8 @@ A computer vision-based assistive application that recognizes visual speech from
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/nimal-v-b35494292)
 
-</div>
-
-<div align="center">
-
 *"Every line of code is another step into the unknown."* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0f0a,100:000000&height=100&section=footer" width="100%" alt="Space-themed footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0f0a,100:000000&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
