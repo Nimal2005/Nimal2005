@@ -94,6 +94,12 @@ An assistive application that interprets lip movements using Computer Vision and
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=FFFFFF" alt="MediaPipe"/>
 
+### 🗄️ Database & Query Languages
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="SQL"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase"/>
+
 ### 🌐 Backend & Cloud Platforms
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask"/>
